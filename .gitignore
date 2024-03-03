@@ -41,6 +41,9 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+.wwebjs_cache/
+.wwebjs_auth/
+src/json/dbClients.json
 
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
